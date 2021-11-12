@@ -1,4 +1,4 @@
-#1'den N'e kadar sayıların çarpımını veren işlemin rekürsif hali
+#1'den n'e kadar sayıların çarpımını veren işlemin rekürsif hali
 def çarp(n):
   if n<=1:
     return 1
